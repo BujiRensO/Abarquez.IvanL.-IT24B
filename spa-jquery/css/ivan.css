@@ -1,2 +1,39 @@
-.h1{color: aquamarine;}
-.para{color: red;}
+
+.navbar{
+    background-image: url(https://mcdn.wallpapersafari.com/medium/51/81/ncOVBa.jpg);
+}
+.h1{color: rgb(247, 247, 247);
+    background-color: rgba(0, 0, 0, 0.5);background-size: cover;
+    font-weight: 500; font-size: 50px; font-family: monospace;
+.h2{font-family: 'Segoe UI';
+    font-weight: 500; font-size: 50px;
+   
+}    
+}
+.para{color: rgb(255, 255, 255);
+    background-color: rgba(0, 0, 0, 0.5);
+    line-height: 250%;
+    letter-spacing: 4px;
+}
+.para2{
+    background-color: rgba(0, 0, 0, 0.25);
+    line-height: 250%;
+    letter-spacing: 4px;}
+
+.me{
+    background-image: url(https://mcdn.wallpapersafari.com/medium/51/81/ncOVBa.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}    
+.blackhole{
+    background-image: url(https://i.pinimg.com/originals/72/51/dd/7251ddbd6e3be6064331943b0a1cdd46.gif);
+
+}
+.para3{
+    line-height: 250%;
+    letter-spacing: 4px;
+    font-family: sans-serif;
+    font-size: 15px;
+
+}
